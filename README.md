@@ -1,27 +1,35 @@
-* Features :
-
-✅ Multi-round gameplay (1 to 10 rounds)
-
-✅ Randomized computer choice
-
-✅ Display of round results
-
-✅ Final winner determination
-
-✅ Console color effects based on results
-
-✅ Option to replay after the game ends
+# Rock-Paper-Scissors Game
 
 
-* How It Works : 
+## Description
 
-1️⃣ The player selects Rock (1), Paper (2), or Scissors (3)
+This project is a C++ implementation of the classic Rock-Paper-Scissors game. The player competes against the computer in multiple rounds, and a final winner is determined based on the number of victories.
 
-2️⃣ The computer makes a random choice
 
-3️⃣ The winner of each round is determined and displayed
+## Features :
 
-4️⃣ After several rounds, the final winner is announced
+* Multi-round gameplay (1 to 10 rounds)
 
-5️⃣ The player can choose to replay or exit
+* Randomized computer choice
+
+* Display of round results
+
+* Final winner determination
+
+* Console color effects based on results
+
+* Option to replay after the game ends
+
+
+## How It Works : 
+
+* The player selects Rock (1), Paper (2), or Scissors (3)
+
+* The computer makes a random choice
+
+* The winner of each round is determined and displayed
+
+* After several rounds, the final winner is announced
+
+* The player can choose to replay or exit
 
